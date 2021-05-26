@@ -1,0 +1,13 @@
+C:\Users\arsim\source\repos\test_task\test_task\bin\Debug\netcoreapp3.1\test_task.exe
+C:\Users\arsim\source\repos\test_task\test_task\bin\Debug\netcoreapp3.1\test_task.deps.json
+C:\Users\arsim\source\repos\test_task\test_task\bin\Debug\netcoreapp3.1\test_task.runtimeconfig.json
+C:\Users\arsim\source\repos\test_task\test_task\bin\Debug\netcoreapp3.1\test_task.runtimeconfig.dev.json
+C:\Users\arsim\source\repos\test_task\test_task\bin\Debug\netcoreapp3.1\test_task.dll
+C:\Users\arsim\source\repos\test_task\test_task\bin\Debug\netcoreapp3.1\test_task.pdb
+C:\Users\arsim\source\repos\test_task\test_task\obj\Debug\netcoreapp3.1\test_task.csprojAssemblyReference.cache
+C:\Users\arsim\source\repos\test_task\test_task\obj\Debug\netcoreapp3.1\test_task.AssemblyInfoInputs.cache
+C:\Users\arsim\source\repos\test_task\test_task\obj\Debug\netcoreapp3.1\test_task.AssemblyInfo.cs
+C:\Users\arsim\source\repos\test_task\test_task\obj\Debug\netcoreapp3.1\test_task.csproj.CoreCompileInputs.cache
+C:\Users\arsim\source\repos\test_task\test_task\obj\Debug\netcoreapp3.1\test_task.dll
+C:\Users\arsim\source\repos\test_task\test_task\obj\Debug\netcoreapp3.1\test_task.pdb
+C:\Users\arsim\source\repos\test_task\test_task\obj\Debug\netcoreapp3.1\test_task.genruntimeconfig.cache
